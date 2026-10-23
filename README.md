@@ -1,4 +1,5 @@
-### Samay Desai — Staff Software Engineer | Platform Architect
+### Samay Desai
+Staff Software Engineer | Platform Architect
 
 - 🏛️ **Architecture & Scale:** 10+ years designing multi-tenant enterprise platforms, micro-frontends, and high-throughput backend systems across SAP, Oracle, and Apple ecosystems.
 - 🧠 **Applied AI Systems:** Engineering enterprise RAG pipelines (Redis Vector Search), LLM orchestration layers, and zero-CLS real-time streaming UIs (SSE / Vercel AI SDK).
